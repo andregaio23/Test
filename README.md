@@ -1,4 +1,6 @@
-Instructions:
+# Data Exploration
+
+## Instructions:
 
 First install the conda environment with all necessary packages:
 
